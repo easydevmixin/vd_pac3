@@ -1,0 +1,203 @@
+{
+  "2004": [
+    {
+      "hacked": {
+        "reclost": 92000000,
+        "recstolen": 92000000,
+        "total": 1
+      }
+    }
+  ],
+  "2005": [
+    {
+      "others": {
+        "reclost": 4225000,
+        "recstolen": 4230000,
+        "total": 3
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 40000000,
+        "recstolen": 40000000,
+        "total": 1
+      }
+    }
+  ],
+  "2006": [
+    {
+      "others": {
+        "reclost": 66300000,
+        "recstolen": 66300000,
+        "total": 5
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 4000000,
+        "recstolen": 4000000,
+        "total": 1
+      }
+    }
+  ],
+  "2007": [
+    {
+      "others": {
+        "reclost": 50186405,
+        "recstolen": 50150000,
+        "total": 9
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 106100000,
+        "recstolen": 106100000,
+        "total": 4
+      }
+    }
+  ],
+  "2008": [
+    {
+      "others": {
+        "reclost": 41566500,
+        "recstolen": 41606000,
+        "total": 13
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 24500000,
+        "recstolen": 24500000,
+        "total": 3
+      }
+    }
+  ],
+  "2009": [
+    {
+      "others": {
+        "reclost": 80290788,
+        "recstolen": 80202000,
+        "total": 7
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 176521778,
+        "recstolen": 176560000,
+        "total": 7
+      }
+    }
+  ],
+  "2010": [
+    {
+      "hacked": {
+        "reclost": 5976400,
+        "recstolen": 5960000,
+        "total": 8
+      }
+    },
+    {
+      "others": {
+        "reclost": 10160076,
+        "recstolen": 10250000,
+        "total": 12
+      }
+    }
+  ],
+  "2011": [
+    {
+      "hacked": {
+        "reclost": 198735838,
+        "recstolen": 198815000,
+        "total": 17
+      }
+    },
+    {
+      "others": {
+        "reclost": 30227649,
+        "recstolen": 30195000,
+        "total": 18
+      }
+    }
+  ],
+  "2012": [
+    {
+      "others": {
+        "reclost": 236766024,
+        "recstolen": 230580000,
+        "total": 10
+      }
+    },
+    {
+      "hacked": {
+        "reclost": 467730000,
+        "recstolen": 462330000,
+        "total": 15
+      }
+    }
+  ],
+  "2013": [
+    {
+      "hacked": {
+        "reclost": 236376000,
+        "recstolen": 294906000,
+        "total": 19
+      }
+    },
+    {
+      "others": {
+        "reclost": 15926000,
+        "recstolen": 15980000,
+        "total": 11
+      }
+    }
+  ],
+  "2014": [
+    {
+      "hacked": {
+        "reclost": 364370000,
+        "recstolen": 393000000,
+        "total": 18
+      }
+    },
+    {
+      "others": {
+        "reclost": 20128000,
+        "recstolen": 20132000,
+        "total": 3
+      }
+    }
+  ],
+  "2015": [
+    {
+      "hacked": {
+        "reclost": 186197000,
+        "recstolen": 187200000,
+        "total": 16
+      }
+    },
+    {
+      "others": {
+        "reclost": 3950000,
+        "recstolen": 4450000,
+        "total": 5
+      }
+    }
+  ],
+  "2016": [
+    {
+      "hacked": {
+        "reclost": 457670436,
+        "recstolen": 457670436,
+        "total": 15
+      }
+    },
+    {
+      "others": {
+        "reclost": 259614115,
+        "recstolen": 259614115,
+        "total": 7
+      }
+    }
+  ]
+}
